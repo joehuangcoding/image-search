@@ -1,0 +1,2 @@
+# image-search
+CLIP + FAISS
